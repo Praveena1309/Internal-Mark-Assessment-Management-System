@@ -5,9 +5,9 @@ SAMPLE SCREENSHOTS
 
 <img width="813" alt="Screenshot 2024-07-10 at 3 18 16 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/45dff9dd-cf6a-4a87-88b3-4580950561c9">
 
-<img width="809" alt="Screenshot 2024-07-10 at 3 18 42 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/553236d9-5743-4118-a304-1f5c8d855d1a">
-
 <img width="809" alt="Screenshot 2024-07-10 at 3 18 28 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/77a8ec24-dccc-4caf-bd92-44dc084808ae">
+
+<img width="809" alt="Screenshot 2024-07-10 at 3 18 42 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/553236d9-5743-4118-a304-1f5c8d855d1a">
 
 ![4](https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/9f628d01-07b7-4bee-9716-c96e33d16d40)
 
