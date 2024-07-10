@@ -3,11 +3,11 @@ Hello! I’m Praveena, a dedicated and passionate developer with a keen interest
 
 SAMPLE SCREENSHOTS
 
-![1](https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/6e66f6e7-a928-4538-8d6a-16ef5ec60a44)
+<img width="813" alt="Screenshot 2024-07-10 at 3 18 16 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/45dff9dd-cf6a-4a87-88b3-4580950561c9">
 
-![2](https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/7d3f510c-ded7-4695-9fea-da55745e29f3)
+<img width="809" alt="Screenshot 2024-07-10 at 3 18 42 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/553236d9-5743-4118-a304-1f5c8d855d1a">
 
-![3](https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/5b071c12-7ae3-40ef-9aad-85da7727c59d)
+<img width="809" alt="Screenshot 2024-07-10 at 3 18 28 PM" src="https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/77a8ec24-dccc-4caf-bd92-44dc084808ae">
 
 ![4](https://github.com/Praveena1309/Internal-Mark-Assessment-Management-System/assets/121342359/9f628d01-07b7-4bee-9716-c96e33d16d40)
 
